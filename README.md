@@ -1,19 +1,25 @@
-# Getting Started
-Install the dependencies and run the project
+# Birthday GIFt Site
+
+A playful and heartfelt one-page site dedicated to celebrating "Tomo’s" birthday — full of surprises, interactive GIFs, and heartfelt messages.
+
+##  🥳 Features
+- **Bold Headline** announcing "Today is Tomo's birthday" with immersive styling
+- **Age Reveal**: “24 years old” displayed prominently with the birth date “08.08.2025”
+- **Interactive Elements**: Hover effects for hidden messages like "How happy I am for you today" and "If I had to describe you with ONE word"
+- **Animated Delight**: Surprise GIF that pops up upon hover—perfect for a personal touch
+- **Light & Joyful Design** that conveys celebration and warmth
+
+##  🖖 Live Demo
+[Check It Out](https://sunny-dasik-b22fe8.netlify.app/)
+
+##  👀 Preview
+![Preview of Birthday GIFt Site](image.png)
+
+```bash
+#  Getting Started
+#Simply clone the repo and open the HTML file in your browser—no setup required:
+
+git clone https://github.com/yourusername/birthday-gift-site.git
+cd birthday-gift-site
+open index.html  # Or double-click to launch in your browser
 ```
-npm install
-npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
