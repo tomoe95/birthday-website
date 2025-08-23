@@ -1,4 +1,4 @@
-# Birthday GIFt Site
+# Birthday GIFt Site 👀
 
 A playful and heartfelt one-page site dedicated to celebrating "Tomo’s" birthday — full of surprises, interactive GIFs, and heartfelt messages.
 
